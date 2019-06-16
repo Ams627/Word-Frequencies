@@ -1,0 +1,8 @@
+= English word frequency
+
+This project lists the frequency of words in English from subtitle data. The original analysis is someone else's work and not mine!
+
+Here are the top 1000 words in English - definitions and Czech (and possibly French) translations will be added.
+
+== Word list
+
